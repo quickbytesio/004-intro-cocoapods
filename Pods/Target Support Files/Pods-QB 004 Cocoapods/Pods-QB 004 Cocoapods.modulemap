@@ -1,0 +1,6 @@
+framework module Pods_QB_004_Cocoapods {
+  umbrella header "Pods-QB 004 Cocoapods-umbrella.h"
+
+  export *
+  module * { export * }
+}
